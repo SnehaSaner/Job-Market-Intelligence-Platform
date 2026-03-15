@@ -3,6 +3,8 @@
 A **full-stack analytics project** that collects live job postings for data and business analytics roles, extracts skill demand trends, and provides an interactive dashboard for analysis.  
 
 ---
+## Screenshots :
+
 
 ## 🛠 Tech Stack
 
